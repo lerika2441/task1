@@ -15,16 +15,15 @@ LICENSE: [MIT](./license.md "Текст лицензии")
     1.3 [Установка в linux](./gitlinux.md)
 2. #### Основные команды
 
-    2.1 [git config](./config.md)
+    2.1 [git config](./config.md "настройка параметров")
 
-    2.2 [git init](./init.md)
+    2.2 [git init](./init.md "создание пустой репозитории")
 
-    2.3 [git add](./add.md)
+    2.3 [git add](./add.md "добавление файла")
 
-    2.4 [git commit](./commit.md)
+    2.4 [git commit](./commit.md "создание коммита")
 
-    2.5 [git clone](./clone.md)
-
+    2.5 [git clone](./clone.md "создание клона репозитория")
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
